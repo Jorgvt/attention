@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "attention"
+  site-url: "https://Jorgvt.github.io/attention"
+  description: "Learning about attention in the wilds."
+  repo-branch: main
+  repo-url: "https://github.com/Jorgvt/attention"
